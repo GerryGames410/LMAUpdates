@@ -1,1 +1,7 @@
 
+<Version: 1.01>
+/data/Skills.json https://www.mediafire.com/file/ox8v9qs0m7p7ef8/Skills.json/file
+/data/Actors.json https://www.mediafire.com/file/g4tn1e21kcavnmw/Actors.json/file
+/img/character/GerryButterfly.png https://i.imgur.com/xZkZyaP.png
+/img/sv_actors/GerryButterfly.png https://i.imgur.com/6FyeYw9.png
+<End of Version>
